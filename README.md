@@ -1,3 +1,4 @@
+
 # Rollout::UI
 
 Minimalist UI for the [rollout](https://github.com/fetlife/rollout) gem that
